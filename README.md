@@ -5,6 +5,7 @@ Specializing in:
 ✅ Azure cloud security & identity management  
 ✅ Threat detection automation (Defender/KQL)  
 ✅ Web Application Development (End-To-End)
+✅ DevSecOps practices
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://linkedin.com/in/mihlali-8934528-mabovula) 
