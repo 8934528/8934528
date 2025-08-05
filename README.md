@@ -4,7 +4,7 @@ Building resilient cloud-native systems with security hardening and testing inte
 Specializing in:  
 ✅ Azure cloud security & identity management  
 ✅ Threat detection automation (Defender/KQL)  
-✅ Web Application Development (End-To-End)
+✅ Web Application Development (End-To-End)  
 ✅ DevSecOps practices
 
 ## 🌐 Socials
