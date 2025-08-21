@@ -24,4 +24,4 @@ Specializing in:
 
 ## Security Spotlight
 ```diff
-   *Security isn't a feature - it's the foundation*
+   Security isn't a feature - it's the foundation
