@@ -1,6 +1,6 @@
 # About Me
 **Security-Focused Full-Stack Developer**  
-Building resilient cloud-native systems with security hardening and testing integrated throughout the development lifecycle.  
+Building resilient native systems with security hardening and testing integrated throughout the development lifecycle.  
 DevOps + SecOps = DevSecOps
 
 Specializing in:  
