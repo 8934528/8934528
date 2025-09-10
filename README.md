@@ -24,7 +24,7 @@ Specializing in:
 | **DevOps**        | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) |
 | **Frameworks**    | ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css) |
 | **Databases**     | ![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) |
-| **Security Tools**| ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?logo=microsoft) ![SOAR](https://img.shields.io/badge/-SOAR-0078D4?logo=microsoft) ![Defender XDR](https://img.shields.io/badge/-Defender_XDR-0078D4?logo=microsoft) ![KQL](https://img.shields.io/badge/-KQL-0078D4?logo=microsoftazure) |
+| **Security Tools**| ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?logo=microsoft) ![SOAR](https://img.shields.io/badge/-SOAR-0078D4?logo=microsoft) ![Defender XDR](https://img.shields.io/badge/-Defender_XDR-0078D4?logo=microsoft) ![KQL](https://img.shields.io/badge/-KQL-0078D4?logo=microsoftazure) ![Hydra](https://img.shields.io/badge/-Hydra-2E8B57?logo=hackaday&logoColor=white) |
 
 ## Security Spotlight
 ```diff
