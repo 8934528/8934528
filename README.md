@@ -34,27 +34,12 @@ Orange 🟠 → 📍 Blue 🔵 → Red 🔴 → Purple 🟣
 
 | Phase | Hat Color | Focus | Stack & Wins |
 |-------|-----------|-------|--------------|
-| **Orange**🟠 | *Junior SOC* | Alert triage, log hygiene | Built 200-line KQL playbook that cut false-positives 35 % |
-| **Blue**🔵 | *Defender* | Threat hunting, automation | Deployed Sentinel + SOAR that auto-isolated 90 % of phishing in < 3 min |
-| **Red**🔴 | *Offensive* | Adversary emulation | Achieved DA on 70 % of internal tests without phishing; wrote custom C# droppers |
-| **Purple**🟣 | *Collaborator* | Continuous purple teaming | Facilitate joint exercises; map detections to MITRE ATT&CK and feed red-team findings back into CI/CD security gates |
+| **Orange**🟠 | *Junior SOC* | Alert triage, log hygiene | KQL, Sentinel, Defender |
+| **Blue**🔵 | *Defender* | Threat hunting, automation |  SOAR, Sentinel, Defender  |
+| **Red**🔴 | *Offensive* | Adversary emulation |  Hydra, C# tools |
+| **Purple**🟣 | *Collaborator* | Continuous purple teaming | Purple scripts, shared boards |
 
 Security isn’t a finish line, it’s a circular track, and I’m lapping it in purple.
-
-
-
-## My Roadmap 🗺️
-Orange 🟠 → 📍 Blue 🔵 → Red 🔴 → Purple 🟣
-
-| Phase | Hat Color | Focus | Stack |
-|-------|-----------|-------|-------|
-| Orange | Watch logs | KQL, Sentinel |  
-| Blue | Build shields | Defender, SOAR |  
-| Red | Break things | Hydra, C# tools |  
-| Purple | Blend both | Purple scripts, shared boards |  
-
-Still walking the road—come walk with me.
-
 
 
 ## Security Spotlight
