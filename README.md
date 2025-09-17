@@ -34,10 +34,10 @@ Orange 🟠 → 📍 Blue 🔵 → Red 🔴 → Purple 🟣
 
 | Phase | Hat Color | Focus | Stack & Wins |
 |-------|-----------|-------|--------------|
-| **Orange**🟠 | *Junior SOC* | Alert triage, log hygiene | KQL, Sentinel, Defender |
-| **Blue**🔵 | *Defender* | Threat hunting, automation |  SOAR, Sentinel, Defender  |
-| **Red**🔴 | *Offensive* | Adversary emulation |  Hydra, C# tools |
-| **Purple**🟣 | *Collaborator* | Continuous purple teaming | Purple scripts, shared boards |
+| **Orange** 🟠 | *Junior SOC* | Alert triage, log hygiene | KQL, Sentinel, Defender |
+| **Blue** 🔵 | *Defender* | Threat hunting, automation |  SOAR, Sentinel, Defender  |
+| **Red** 🔴 | *Offensive* | Adversary emulation |  Hydra, C# tools |
+| **Purple** 🟣 | *Collaborator* | Continuous purple teaming | Purple scripts, shared boards |
 
 Security isn’t a finish line, it’s a circular track, and I’m lapping it in purple.
 
