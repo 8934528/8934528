@@ -41,6 +41,22 @@ Orange 🟠 → 📍 Blue 🔵 → Red 🔴 → Purple 🟣
 
 Security isn’t a finish line, it’s a circular track, and I’m lapping it in purple.
 
+
+
+## My Roadmap 🗺️
+Orange 🟠 → 📍 Blue 🔵 → Red 🔴 → Purple 🟣
+
+| Phase | Hat Color | Focus | Stack |
+|-------|-----------|-------|-------|
+| Orange | Watch logs | KQL, Sentinel |  
+| Blue | Build shields | Defender, SOAR |  
+| Red | Break things | Hydra, C# tools |  
+| Purple | Blend both | Purple scripts, shared boards |  
+
+Still walking the road—come walk with me.
+
+
+
 ## Security Spotlight
 ```diff
 + Security isn't a feature - it's the foundation
