@@ -34,10 +34,10 @@ Orange 🟠 → 📍 Blue 🔵 → Red 🔴 → Purple 🟣
 
 | Phase | Hat Color | Focus | Stack & Wins |
 |-------|-----------|-------|--------------|
-| **Orange** 🟠 | *Junior SOC* | Alert triage, log hygiene | Built 200-line KQL playbook that cut false-positives 35 % |
-| **Blue** 🔵 | *Defender* | Threat hunting, automation | Deployed Sentinel + SOAR that auto-isolated 90 % of phishing in < 3 min |
-| **Red** 🔴 | *Offensive* | Adversary emulation | Achieved DA on 70 % of internal tests without phishing; wrote custom C# droppers |
-| **Purple** 🟣 | *Collaborator* | Continuous purple teaming | Facilitate joint exercises; map detections to MITRE ATT&CK and feed red-team findings back into CI/CD security gates |
+| **Orange**🟠 | *Junior SOC* | Alert triage, log hygiene | Built 200-line KQL playbook that cut false-positives 35 % |
+| **Blue**🔵 | *Defender* | Threat hunting, automation | Deployed Sentinel + SOAR that auto-isolated 90 % of phishing in < 3 min |
+| **Red**🔴 | *Offensive* | Adversary emulation | Achieved DA on 70 % of internal tests without phishing; wrote custom C# droppers |
+| **Purple**🟣 | *Collaborator* | Continuous purple teaming | Facilitate joint exercises; map detections to MITRE ATT&CK and feed red-team findings back into CI/CD security gates |
 
 Security isn’t a finish line, it’s a circular track, and I’m lapping it in purple.
 
