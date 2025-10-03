@@ -7,8 +7,8 @@ Building resilient native systems with **security hardening** and **testing** in
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://linkedin.com/in/mihlali-8934528-mabovula)  
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:mihlalimabovula597@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://linkedin.com/in/mihlali-8934528-mabovula)  [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:mihlalimabovula597@gmail.com)
+
 
 ---
 
