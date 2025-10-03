@@ -1,4 +1,4 @@
-# Mihlali Mabovula — Security-Focused Full-Stack Developer
+# Mihlali Mabovula 
 
 **Security-Focused Full-Stack Developer**  
 Building resilient native systems with **security hardening** and **testing** integrated throughout the entire development lifecycle.  
@@ -17,7 +17,7 @@ Building resilient native systems with **security hardening** and **testing** in
 | **Category**       | **Technologies** |
 |--------------------|------------------|
 | **Back End**       | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![API Integration](https://img.shields.io/badge/-API%20Integration-FF6F00?logo=swagger) |
-| **Front End**      | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular) |
+| **Front End**      | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs) |
 | **UI/UX Design**   | ![Gimp](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma) ![Miro](https://img.shields.io/badge/-Miro-F2D522?logo=miro) |
 | **Cloud**          | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure) ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Render](https://img.shields.io/badge/-Render-00A6FF?logo=render) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify) |
 | **DevOps**         | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) |
