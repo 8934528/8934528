@@ -1,52 +1,55 @@
-# Mihlali Mabovula 
+# Mihlali Mabovula  
 
-**Security-Focused Full-Stack Developer**  
-Building resilient native systems with **security hardening** and **testing** integrated throughout the entire development lifecycle.  
-**DevOps + SecOps = DevSecOps**
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://linkedin.com/in/mihlali-8934528-mabovula)  [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:mihlalimabovula597@gmail.com)
-
+**Secure by Design | Full-Stack Developer | DevSecOps in Action**  
+I build strong, fast, and safe systems — apps that don’t just *work*, they *withstand*.  
+From first line of code to final deployment, **security is my rhythm**, not an afterthought.  
 
 ---
 
-## 💻 Tech Stack
+## Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://linkedin.com/in/mihlali-8934528-mabovula)  
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:mihlalimabovula597@gmail.com)  
+[![Slack](https://img.shields.io/badge/Slack-Join-%234A154B?logo=slack)](https://slack.com)
+
+---
+
+## Tech Stack  
 
 | **Category**       | **Technologies** |
 |--------------------|------------------|
 | **Back End**       | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![API Integration](https://img.shields.io/badge/-API%20Integration-FF6F00?logo=swagger) |
-| **Front End**      | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs) |
+| **Front End**      | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs) |
 | **UI/UX Design**   | ![Gimp](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma) ![Miro](https://img.shields.io/badge/-Miro-F2D522?logo=miro) |
 | **Cloud**          | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure) ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Render](https://img.shields.io/badge/-Render-00A6FF?logo=render) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify) |
-| **DevOps**         | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) |
+| **DevOps**         | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) |
 | **Frameworks**     | ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css) |
-| **Databases**      | ![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) |
-| **Security Tools** | ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?logo=microsoft) ![SOAR](https://img.shields.io/badge/-SOAR-0078D4?logo=microsoft) ![Defender XDR](https://img.shields.io/badge/-Defender_XDR-0078D4?logo=microsoft) ![XSS](https://img.shields.io/badge/-XSS-FF6B6B) ![Hydra](https://img.shields.io/badge/-Hydra-2E8B57?logo=hackaday&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=portswigger) ![Linux VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox) |
+| **Databases**      | ![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) |
+| **Security Tools** | ![Web Security](https://img.shields.io/badge/-Web%20Security-FF6B6B?logo=mozilla) ![Web Testing](https://img.shields.io/badge/-Web%20Testing-2E8B57?logo=selenium) ![SAST](https://img.shields.io/badge/-SAST-0078D4?logo=checkmarx) ![DAST](https://img.shields.io/badge/-DAST-FF8800?logo=owasp) ![OWASP Top Ten](https://img.shields.io/badge/-OWASP%20Top%20Ten-000000?logo=owasp) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=portswigger) ![Linux VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox) |
 | **AV Production**  | ![ProPresenter](https://img.shields.io/badge/-ProPresenter-1D4ED7?logo=propresenter) ![OBS](https://img.shields.io/badge/-OBS-302E31?logo=obsstudio) ![Stream Deck](https://img.shields.io/badge/-Stream_Deck-1E1E1E?logo=elgato) |
 
 ---
 
-## 🗺️ Roadmap  
+## Roadmap  
 **Orange 🟠 → Blue 🔵 → Red 🔴 → Purple 🟣**  
 **Goal:** From **SOC Analyst** → **Purple-Team Specialist**
 
 | **Phase**    | **Hat Color** | **Focus**              | **Stack & Wins**             |
 |--------------|---------------|------------------------|-------------------------------|
-| **Orange**   | 🟠 *Junior Dev* | Alert triage, log hygiene | Sentinel, Defender |
-| **Blue**     | 🔵 *Defender*  | Threat hunting, automation | SOAR, Sentinel, Defender |
-| **Red**      | 🔴 *Offensive* | Adversary emulation       | Hydra, C# Tools |
-| **Purple**   | 🟣 *Collaborator* | Continuous purple teaming | Purple scripts, shared boards |
+| **Orange**   | 🟠 *Junior Dev* | Alert triage, log hygiene | Defender, Docker |
+| **Blue**     | 🔵 *Defender*  | Threat hunting, automation | SOAR, Defender |
+| **Red**      | 🔴 *Offensive* | Adversary emulation       | Burp Suite, DAST |
+| **Purple**   | 🟣 *Collaborator* | Continuous purple teaming | OWASP, SAST, shared boards |
 
 > *Security isn’t a finish line — it’s a circular track, and I’m lapping it in purple.*
 
 ---
 
-## 🔐 Security Spotlight
+## Security Spotlight  
 
 > **Security isn't a feature — it's the foundation.**
 
-I design and build with defense-in-depth, secure defaults, and continuous testing (SAST/DAST). My approach blends DevOps automation with SecOps practices to move security earlier in the lifecycle (DevSecOps).
+I code with **defense-in-depth**, **secure defaults**, and **constant validation** in mind.  
+Every commit goes through the cycle: **Plan → Build → Test → Secure → Ship**.  
+My workflow fuses DevOps speed with SecOps vigilance — that’s **DevSecOps** in motion.  
 
 ---
