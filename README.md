@@ -1,14 +1,17 @@
-# Mihlali Mabovula  
+<!-- GITHUB PROFILE BANNER -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Mihlali%20Mabovula-%F0%9F%94%90%20Secure%20by%20Design%20%7C%20Full--Stack%20Developer%20%7C%20DevSecOps%20in%20Action-red?style=for-the-badge&logo=github" alt="Mihlali Mabovula Banner">
+</p>
 
-**Secure by Design | Full-Stack Developer | DevSecOps in Action**  
-I build strong, fast, and safe systems — apps that don’t just *work*, they *withstand*.  
-From first line of code to final deployment, **security is my rhythm**, not an afterthought.  
+<h1 align="center">Mihlali Mabovula</h1>
+<p align="center"><b>Secure by Design | Full-Stack Developer | DevSecOps in Action</b></p>
+<p align="center">I build strong, fast, and safe systems — apps that don’t just <i>work</i>, they <i>withstand</i>.<br>
+From first line of code to final deployment, <b>security is my rhythm</b>, not an afterthought.</p>
 
 ---
 
 ## Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://linkedin.com/in/mihlali-8934528-mabovula)  
-[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?logo=gmail)](mailto:mihlalimabovula597@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mihlali-8934528-mabovula)  [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=flat&logo=gmail)](mailto:mihlalimabovula597@gmail.com)  
 
 ---
 
