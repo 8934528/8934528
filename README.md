@@ -46,8 +46,4 @@ From first line of code to final deployment, **security is my rhythm**, not an a
 
 > **Security isn't a feature — it's the foundation.**
 
-I code with **defense-in-depth**, **secure defaults**, and **constant validation** in mind.  
-Every commit goes through the cycle: **Plan → Build → Test → Secure → Ship**.  
-My workflow fuses DevOps speed with SecOps vigilance — that’s **DevSecOps** in motion.  
-
 ---
