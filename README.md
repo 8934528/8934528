@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/Mihlali%20Mabovula-%F0%9F%94%90%20Secure%20by%20Design%20%7C%20Full--Stack%20Developer%20%7C%20DevSecOps%20in%20Action-red?style=for-the-badge&logo=github" alt="Mihlali Mabovula Banner">
 </p>
 
-<h1 align="center">Mihlali Mabovula</h1>
 <p align="center"><b>Secure by Design | Full-Stack Developer | DevSecOps in Action</b></p>
 <p align="center">I build strong, fast, and safe systems — apps that don’t just <i>work</i>, they <i>withstand</i>.<br>
 From first line of code to final deployment, <b>security is my rhythm</b>, not an afterthought.</p>
