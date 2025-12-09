@@ -24,6 +24,7 @@
 | **Frameworks**     | ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css) |
 | **Databases**      | ![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) |
 | **Security Tools** | ![Web Testing](https://img.shields.io/badge/-Web%20Testing-2E8B57?logo=selenium) ![SAST](https://img.shields.io/badge/-SAST-0078D4?logo=checkmarx) ![DAST](https://img.shields.io/badge/-DAST-FF8800?logo=owasp) ![OWASP Top Ten](https://img.shields.io/badge/-OWASP%20Top%20Ten-000000?logo=owasp) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox) |
+| **Analytics** | ![Google Analytics](https://img.shields.io/badge/-Google%2520Analytics-E37400?logo=googleanalytics&logoColor=white)|
 | **AV Production**  | ![ProPresenter](https://img.shields.io/badge/-ProPresenter-1D4ED7?logo=propresenter) ![OBS](https://img.shields.io/badge/-OBS-302E31?logo=obsstudio) ![Stream Deck](https://img.shields.io/badge/-Stream_Deck-1E1E1E?logo=elgato) |
 
 ---
