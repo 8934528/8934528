@@ -39,8 +39,6 @@
 | **Red**      | 🔴 *Offensive* | Adversary emulation       | DAST, Web Testing |
 | **Purple**   | 🟣 *Collaborator* | Continuous purple teaming | OWASP, SAST, shared boards |
 
-> *Security isn’t a finish line — it’s a circular track, and I’m lapping it in purple.*
-
 ---
 
 ## Security Spotlight  
