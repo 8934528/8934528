@@ -21,8 +21,8 @@
 | **UI/UX Design**   | ![Gimp](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma) ![Miro](https://img.shields.io/badge/-Miro-F2D522?logo=miro) |
 | **Cloud**          | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure) ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Render](https://img.shields.io/badge/-Render-00A6FF?logo=render) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify) |
 | **DevOps**         | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack) |
-| **Frameworks**     | ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css) |
-| **Databases**      | ![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) |
+| **Frameworks**     | ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap) |
+| **Databases**      | ![MSSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) |
 | **Security Tools** | ![Web Testing](https://img.shields.io/badge/-Web%20Testing-2E8B57?logo=selenium) ![SAST](https://img.shields.io/badge/-SAST-0078D4?logo=checkmarx) ![DAST](https://img.shields.io/badge/-DAST-FF8800?logo=owasp) ![OWASP Top Ten](https://img.shields.io/badge/-OWASP%20Top%20Ten-000000?logo=owasp) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox) |
 | **AV Production**  | ![ProPresenter](https://img.shields.io/badge/-ProPresenter-1D4ED7?logo=propresenter) ![OBS](https://img.shields.io/badge/-OBS-302E31?logo=obsstudio) ![Stream Deck](https://img.shields.io/badge/-Stream_Deck-1E1E1E?logo=elgato) |
 
@@ -32,12 +32,12 @@
 **Orange 🟠 → Blue 🔵 → Red 🔴 → Purple 🟣**  
 **Goal:** From **SOC Analyst** → **Purple-Team Specialist**
 
-| **Phase**    | **Hat Color** | **Focus**              | **Stack & Wins**             |
-|--------------|---------------|------------------------|-------------------------------|
-| **Orange**   | 🟠 *Junior Dev* | Alert triage, log hygiene | Defender, Docker |
-| **Blue**     | 🔵 *Defender*  | Threat hunting, automation | SOAR, Defender |
-| **Red**      | 🔴 *Offensive* | Adversary emulation       | DAST, Web Testing |
-| **Purple**   | 🟣 *Collaborator* | Continuous purple teaming | OWASP, SAST, shared boards |
+| **Phase**    | **Hat Color**      | **Focus**                    | **Stack & Wins**              |
+|--------------|--------------------|-------------------------------|------------------------------|
+| **Orange**   | 🟠 *Junior Dev*    | Alert triage, log hygiene    | Defender, Docker              |
+| **Blue**     | 🔵 *Defender*      | Threat hunting, automation   | SOAR, Defender                |
+| **Red**      | 🔴 *Offensive*     | Adversary emulation          | DAST, Web Testing             |
+| **Purple**   | 🟣 *Collaborator*  | Continuous purple teaming    | OWASP, SAST, shared boards    |
 
 ---
 
