@@ -25,12 +25,12 @@
 <!-- ===================== DASHBOARD START ===================== -->
 <div align="center">
 
-## ⚡ Tech Dashboard
+## Tech Dashboard
 
 <br>
 
 <!-- ================= BACKEND ================= -->
-<img src="https://img.shields.io/badge/BACKEND-⚙️-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/BACKEND-111111?style=for-the-badge">
 
 <br><br>
 
@@ -43,7 +43,7 @@
 <br><br><br>
 
 <!-- ================= FRONTEND ================= -->
-<img src="https://img.shields.io/badge/FRONTEND-🎨-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/FRONTEND-111111?style=for-the-badge">
 
 <br><br>
 
@@ -58,7 +58,7 @@
 <br><br><br>
 
 <!-- ================= CLOUD ================= -->
-<img src="https://img.shields.io/badge/CLOUD-☁️-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/CLOUD-111111?style=for-the-badge">
 
 <br><br>
 
@@ -71,7 +71,7 @@
 <br><br><br>
 
 <!-- ================= DEVOPS ================= -->
-<img src="https://img.shields.io/badge/DEVOPS-🚀-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/DEVOPS-111111?style=for-the-badge">
 
 <br><br>
 
@@ -82,7 +82,7 @@
 <br><br><br>
 
 <!-- ================= DATABASE ================= -->
-<img src="https://img.shields.io/badge/DATABASES-🗄️-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/DATABASES-111111?style=for-the-badge">
 
 <br><br>
 
@@ -94,7 +94,7 @@
 <br><br><br>
 
 <!-- ================= SECURITY ================= -->
-<img src="https://img.shields.io/badge/SECURITY-🔐-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/SECURITY-111111?style=for-the-badge">
 
 <br><br>
 
