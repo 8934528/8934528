@@ -11,13 +11,13 @@
 ## Socials  
 <p align="center">
 <a href="https://www.linkedin.com/in/mihlalimabovula">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-32CD32?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0000FF?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:mihlalimabovula597@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-32CD32?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail">
 </a>
 <a href="https://mabovulamihlali.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-32CD32?style=for-the-badge&logo=vercel">
+<img src="https://img.shields.io/badge/Portfolio-Visit-32CD32?style=for-the-badge&logo=netlify">
 </a>
 </p>
 
