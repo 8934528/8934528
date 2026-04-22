@@ -10,7 +10,7 @@ From first line of code to final deployment, <b>security is my rhythm</b>, not a
 
 ## Socials  
 <p align="center">
-<a href="www.linkedin.com/in/mihlalimabovula">
+<a href="[https:www](https://).linkedin.com/in/mihlalimabovula">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:mihlalimabovula597@gmail.com">
