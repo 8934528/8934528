@@ -60,7 +60,7 @@
 
 ---
 
-## 🟢 Security Spotlight  
+## Security Spotlight  
 
 <p align="center">
 <b style="color:#32CD32;">Security isn't a feature — it's the foundation.</b>
