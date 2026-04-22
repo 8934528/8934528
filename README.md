@@ -11,7 +11,7 @@
 ## Socials  
 <p align="center">
 <a href="https://www.linkedin.com/in/mihlalimabovula">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0000FF?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-FFCCCB?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:mihlalimabovula597@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-FF0000?style=for-the-badge&logo=gmail">
