@@ -10,9 +10,9 @@
 ## Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mihlali-8934528-mabovula)  [![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=flat&logo=gmail)](mailto:mihlalimabovula597@gmail.com)  
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=8934528&theme=radical)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=8934528&theme=react-dark)
 
 ---
 
