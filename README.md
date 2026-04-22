@@ -26,19 +26,6 @@
 
 ---
 
-## Roadmap  
-**Orange 🟠 → Blue 🔵 → Red 🔴 → Purple 🟣**  
-**Goal:** From **SOC Analyst** → **Purple-Team Specialist**
-
-| **Phase**    | **Hat Color**      | **Focus**                    | **Stack & Wins**              |
-|--------------|--------------------|-------------------------------|------------------------------|
-| **Orange**   | 🟠 *Junior Dev*    | Alert triage, log hygiene    | Defender, Docker              |
-| **Blue**     | 🔵 *Defender*      | Threat hunting, automation   | SOAR, Defender                |
-| **Red**      | 🔴 *Offensive*     | Adversary emulation          | DAST, Web Testing             |
-| **Purple**   | 🟣 *Collaborator*  | Continuous purple teaming    | OWASP, SAST, shared boards    |
-
----
-
 ## Security Spotlight  
 
 > **Security isn't a feature — it's the foundation.**
