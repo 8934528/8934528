@@ -7,14 +7,14 @@
 ## Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mihlalimabovula">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-005A9C?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/mihlalimabovula" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-005A9C?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:mihlalimabovula597@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-ED1C24?style=for-the-badge&logo=gmail">
+  <a href="mailto:mihlalimabovula597@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-Contact-ED1C24?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://mabovulamihlali.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-32CD32?style=for-the-badge&logo=netlify">
+  <a href="https://mabovulamihlali.netlify.app" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-32CD32?style=for-the-badge&logo=netlify" alt="Portfolio">
   </a>
 </p>
 
