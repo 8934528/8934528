@@ -1,16 +1,8 @@
-<table>
-  <tr>
-    <td align="center" width="260">
-      <img src="https://img.shields.io/badge/MIHLALI%20MABOVULA-181717?style=for-the-badge&logo=github&logoColor=white">
-    </td>
-    <td align="center" width="260">
-      <img src="https://img.shields.io/badge/FULL--STACK%20SOFTWARE%20DEVELOPER-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    </td>
-    <td align="center" width="260">
-      <img src="https://img.shields.io/badge/CYBERSECURITY%20SPECIALIST-DC143C?style=for-the-badge&logo=owasp&logoColor=white">
-    </td>
-  </tr>
-</table>
+<p align="left" style="display: flex; gap: 0; margin: 0; padding: 0;">
+  <img src="https://img.shields.io/badge/MIHLALI%20MABOVULA-181717?style=for-the-badge&logo=github&logoColor=white&labelWidth=260&messageWidth=0">
+  <img src="https://img.shields.io/badge/FULL--STACK%20SOFTWARE%20DEVELOPER-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelWidth=260&messageWidth=0">
+  <img src="https://img.shields.io/badge/CYBERSECURITY%20SPECIALIST-DC143C?style=for-the-badge&logo=owasp&logoColor=white&labelWidth=260&messageWidth=0">
+</p>
 
 ---
 
