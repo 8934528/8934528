@@ -33,37 +33,22 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=8934528&theme=react-dark&color=32CD32&line=32CD32&point=FFFFFF)
-
-</div>
-
 ---
 
 ## Tech Stack
 
 <div align="center">
 
-| **Category** |                                                                                                                                                                                                                                                                                                                     **Technologies**                                                                                                                                                                                                                                                                                                                    |
-| :----------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    BACKEND   |                                                                                    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs"> <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp"> <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">                                                                                   |
-|   FRONTEND   | <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript"> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"> <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite"> <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart"> |
-|      API     |                                                                                                                                                                <img src="https://img.shields.io/badge/-REST-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/-SOAP-6DB33F?style=for-the-badge&logo=databricks&logoColor=white">                                                                                                                                                               |
-|     CLOUD    |                                                                                   <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure"> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/-Render-00A6FF?style=for-the-badge&logo=render"> <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel"> <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify">                                                                                  |
-|    DEVOPS    |                                                                                                                                                                                             <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack">                                                                                                                                                                                             |
-|   DATABASES  |                                                                                                                      <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite">                                                                                                                      |
-|   SECURITY   |                                                                                                                                 <img src="https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp"> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox"> <img src="https://img.shields.io/badge/-Selenium-2E8B57?style=for-the-badge&logo=selenium">                                                                                                                                 |
+| **Category** | **Technologies** |
+| :----------: | :---------------: |
+| **BACKEND** | <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet"> <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp"> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs"> |
+| **FRONTEND** | <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"> |
+| **API** | <img src="https://img.shields.io/badge/-REST-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/-SOAP-6DB33F?style=for-the-badge&logo=databricks&logoColor=white"> |
+| **CLOUD** | <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify"> <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure"> <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/-Render-00A6FF?style=for-the-badge&logo=render"> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> |
+| **DEVOPS** | <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white"> <img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack"> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> |
+| **DATABASES** | <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"> <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"> <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite"> |
+| **SECURITY** | <img src="https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp"> <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox"> <img src="https://img.shields.io/badge/-Selenium-2E8B57?style=for-the-badge&logo=selenium"> |
+
 </div>
-
----
-
-## Security Spotlight  
-
-<p align="center">
-<b style="color:#32CD32;">Security isn't a feature — it's the foundation.</b>
-</p>
 
 ---
