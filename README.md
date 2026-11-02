@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/MIHLALI%20MABOVULA-FULL--STACK%20SOFTWARE%20DEVELOPER%20%7C%20CYBERSECURITY%20SPECIALIST-red?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/MIHLALI%20MABOVULA-%3C%2F%3E%20FULL--STACK%20SOFTWARE%20DEVELOPER%20%7C%20%F0%9F%9B%A1%20CYBERSECURITY%20SPECIALIST-red?style=for-the-badge&logo=github">
 </p>
 
 ---
