@@ -1,7 +1,7 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/MIHLALI%20MABOVULA-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/FULL--STACK%20SOFTWARE%20DEVELOPER-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/CYBERSECURITY%20SPECIALIST-DC143C?style=for-the-badge&logo=owasp&logoColor=white">
+  <img src="https://img.shields.io/badge/MIHLALI%20MABOVULA-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" height="35">
+  <img src="https://img.shields.io/badge/FULL--STACK%20SOFTWARE%20DEVELOPER-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC" height="35">
+  <img src="https://img.shields.io/badge/CYBERSECURITY%20SPECIALIST-DC143C?style=for-the-badge&logo=owasp&logoColor=white&color=DC143C" height="35">
 </p>
 
 ---
